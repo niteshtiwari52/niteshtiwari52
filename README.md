@@ -17,8 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/nitesht58835369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitesht58835369" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nitesh-tiwari-06b15020b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitesh-tiwari-06b15020b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19424072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19424072" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/niteshtiwari12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="niteshtiwari12" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/niteshtiwari5222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="niteshtiwari5222" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/niteshtiwari17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niteshtiwari17/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/niteshtiwari17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="niteshtiwari17" height="30" width="40" /></a>
@@ -32,5 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitesh52221&show_icons=true&locale=en" alt="nitesh52221" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh52221&" alt="nitesh52221" /></p>
-
-
