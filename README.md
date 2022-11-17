@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nitesht58835369" target="blank"><img src="https://img.shields.io/twitter/follow/nitesht58835369?logo=twitter&style=for-the-badge" alt="nitesht58835369" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **DSA, Web Development(MERN), Docker, AWS(S3 Bucket, EC2)**
 
